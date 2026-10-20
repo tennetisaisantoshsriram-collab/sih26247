@@ -1,0 +1,14 @@
+{
+  "name": "DroneShield — Threat Simulation Trainer",
+  "short_name": "DroneShield",
+  "description": "SIH26247 — AI-Enabled Drone & Counter-Drone Threat Simulation Trainer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#f59e0b",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ],
+  "categories": ["education", "utilities"],
+  "lang": "en-IN"
+}

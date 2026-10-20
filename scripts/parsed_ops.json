@@ -1,0 +1,627 @@
+[
+  {
+    "opName": "OP AIRBASE SENTINEL",
+    "line": 67,
+    "targetName": "Pathankot Air Force Station (Runway 09/27)"
+  },
+  {
+    "opName": "OP SUTLEJ NIGHTFALL",
+    "line": 85,
+    "targetName": "Hussainiwala Riverine BOP, Ferozepur"
+  },
+  {
+    "opName": "OP GOLDEN DOME",
+    "line": 103,
+    "targetName": "Amritsar Golden Temple & Cantt ADZ"
+  },
+  {
+    "opName": "OP IRON NET",
+    "line": 121,
+    "targetName": "Adampur Fighter Airbase (Su-30MKI / MiG-29)"
+  },
+  {
+    "opName": "OP THUNDER SHIELD",
+    "line": 139,
+    "targetName": "Bathinda Corps Ammunition Depot"
+  },
+  {
+    "opName": "OP FALCON INTERCEPT",
+    "line": 157,
+    "targetName": "Halwara Strategic Airbase (Bulk Fuel Farm)"
+  },
+  {
+    "opName": "OP DUST MIRAGE",
+    "line": 175,
+    "targetName": "Dera Baba Nanak / Gurdaspur IB Sector"
+  },
+  {
+    "opName": "OP WAGAH RETREAT",
+    "line": 193,
+    "targetName": "Attari–Wagah Integrated Check Post"
+  },
+  {
+    "opName": "OP RAVI SHADOW",
+    "line": 211,
+    "targetName": "Ajnala Riverine Radar Post, Amritsar"
+  },
+  {
+    "opName": "OP BEAS BARRAGE",
+    "line": 229,
+    "targetName": "Harike Headworks & Canal Confluence"
+  },
+  {
+    "opName": "OP KHEM KARAN",
+    "line": 247,
+    "targetName": "Khem Karan / Tarn Taran Armored Sector"
+  },
+  {
+    "opName": "OP FAZILKA FOG",
+    "line": 265,
+    "targetName": "Fazilka–Sulemanki Border Outpost"
+  },
+  {
+    "opName": "OP ABOHAR THERMITE",
+    "line": 283,
+    "targetName": "Abohar Forward Field Ammunition Point"
+  },
+  {
+    "opName": "OP KAPURTHALA ARMOR",
+    "line": 301,
+    "targetName": "Kapurthala Mechanised Brigade Staging Yard"
+  },
+  {
+    "opName": "OP BEAS BRIDGE",
+    "line": 319,
+    "targetName": "Beas Strategic Rail & NH-44 Highway Bridge"
+  },
+  {
+    "opName": "OP NANGAL GRID",
+    "line": 337,
+    "targetName": "Bhakra–Nangal 400kV Hydro Switchyard"
+  },
+  {
+    "opName": "OP PATIALA APACHE",
+    "line": 355,
+    "targetName": "Patiala Army Aviation Attack Helo Base"
+  },
+  {
+    "opName": "OP BHATINDA REFINERY",
+    "line": 373,
+    "targetName": "HMEL Guru Gobind Singh Oil Refinery, Bathinda"
+  },
+  {
+    "opName": "OP FARIDKOT SEAD",
+    "line": 391,
+    "targetName": "Faridkot Electronic Warfare & Tropo Node"
+  },
+  {
+    "opName": "OP TIBRI CONVOY",
+    "line": 409,
+    "targetName": "Tibri Military Cantonment, Gurdaspur"
+  },
+  {
+    "opName": "OP BARNALA GAPFILLER",
+    "line": 427,
+    "targetName": "Jalandhar–Barnala Low-Level Gapfiller Radar"
+  },
+  {
+    "opName": "OP SIRHIND RAILHEAD",
+    "line": 445,
+    "targetName": "Sirhind–Doraha Military Logistics Railhead"
+  },
+  {
+    "opName": "OP FIROZPUR GUNS",
+    "line": 463,
+    "targetName": "Firozpur Corps Artillery Brigade Position"
+  },
+  {
+    "opName": "OP MADHOPUR BARRAGE",
+    "line": 481,
+    "targetName": "Madhopur Ravi Headworks (Punjab–J&K Link)"
+  },
+  {
+    "opName": "OP VAJRA CLIMAX",
+    "line": 499,
+    "targetName": "Pathankot–Mamun Joint Military Cantonment"
+  },
+  {
+    "opName": "OP JAMMU WATCH",
+    "line": 520,
+    "targetName": "Jammu Air Force Station (Technical Hangar)"
+  },
+  {
+    "opName": "OP JHELUM GUARD",
+    "line": 538,
+    "targetName": "Uri-II Hydroelectric Dam & Spillway Gorge"
+  },
+  {
+    "opName": "OP CHINAR SHIELD",
+    "line": 556,
+    "targetName": "Srinagar Airbase & Badami Bagh XV Corps HQ"
+  },
+  {
+    "opName": "OP SNOW CREST",
+    "line": 574,
+    "targetName": "Gurez Valley High-Altitude Gapfiller Radar"
+  },
+  {
+    "opName": "OP TRISHUL GUARD",
+    "line": 592,
+    "targetName": "Nagrota XVI (White Knight) Corps HQ"
+  },
+  {
+    "opName": "OP PIR PANJAL",
+    "line": 610,
+    "targetName": "Poonch–Rajouri Forward Artillery Brigade"
+  },
+  {
+    "opName": "OP CHENAB SENTINEL",
+    "line": 628,
+    "targetName": "Akhnoor Strategic Chenab Bridge & Logistics"
+  },
+  {
+    "opName": "OP KASHMIR SHIELD",
+    "line": 646,
+    "targetName": "Kupwara–Tangdhar LoC Mountain Pass"
+  },
+  {
+    "opName": "OP ARCH SENTINEL",
+    "line": 664,
+    "targetName": "Chenab Rail Bridge, Kauri Reasi (World's Highest Rail Arch)"
+  },
+  {
+    "opName": "OP DHRUV COMMAND",
+    "line": 682,
+    "targetName": "Udhampur Northern Command HQ"
+  },
+  {
+    "opName": "OP VULTURE NEST",
+    "line": 700,
+    "targetName": "Awantipora Air Force Station, Pulwama"
+  },
+  {
+    "opName": "OP TRIKUTA DOME",
+    "line": 718,
+    "targetName": "Katra / Mata Vaishno Devi Shrine ADZ"
+  },
+  {
+    "opName": "OP TUNNEL PORTAL",
+    "line": 736,
+    "targetName": "Banihal–Qazigund NH-44 Pir Panjal Tunnel"
+  },
+  {
+    "opName": "OP APHARWAT EYE",
+    "line": 754,
+    "targetName": "Gulmarg High-Altitude SIGINT & Radar Facility"
+  },
+  {
+    "opName": "OP MACHIL NIGHT",
+    "line": 772,
+    "targetName": "Machil Sector Forward LoC Post, Kupwara"
+  },
+  {
+    "opName": "OP KISHENGANGA",
+    "line": 790,
+    "targetName": "Keran–Kishenganga River Gorge & Powerhouse"
+  },
+  {
+    "opName": "OP NAUSHERA SHIELD",
+    "line": 808,
+    "targetName": "Naushera–Jhangar Brigade Sector, Rajouri"
+  },
+  {
+    "opName": "OP BASANTAR WATCH",
+    "line": 826,
+    "targetName": "Samba International Border Nullah Corridor"
+  },
+  {
+    "opName": "OP RAVI LINK",
+    "line": 844,
+    "targetName": "Kathua–Madhopur Strategic Rail Bridge"
+  },
+  {
+    "opName": "OP DAGGER AEGIS",
+    "line": 862,
+    "targetName": "Baramulla 19 (Dagger) Infantry Division HQ"
+  },
+  {
+    "opName": "OP MARUSUDAR",
+    "line": 880,
+    "targetName": "Kishtwar Pakal Dul & Dul Hasti Hydro Dam"
+  },
+  {
+    "opName": "OP GALI INTERCEPT",
+    "line": 898,
+    "targetName": "Bhimber Gali (BG Sector) Mountain Pass"
+  },
+  {
+    "opName": "OP ZOJILA GATE",
+    "line": 916,
+    "targetName": "Sonamarg–Zoji La Strategic Tunnel Approach"
+  },
+  {
+    "opName": "OP VALLEY GRID",
+    "line": 934,
+    "targetName": "Pampore 220kV Master Grid Station, Pulwama"
+  },
+  {
+    "opName": "OP CLIFF SENTINEL",
+    "line": 952,
+    "targetName": "Rampur–Boniyar Jhelum Cliff Sector, LoC"
+  },
+  {
+    "opName": "OP HIMANK WATCH",
+    "line": 973,
+    "targetName": "Leh Kushok Bakula Airbase (4,800m ASL)"
+  },
+  {
+    "opName": "OP KARAKORAM GHOST",
+    "line": 991,
+    "targetName": "Daulat Beg Oldie (DBO) Advanced Strip (16,700 ft)"
+  },
+  {
+    "opName": "OP PANGONG WAVE",
+    "line": 1009,
+    "targetName": "Pangong Tso Finger-4 Tactical Post (4,350m)"
+  },
+  {
+    "opName": "OP GALWAN SENTINEL",
+    "line": 1027,
+    "targetName": "Galwan River Y-Junction FOB (UT of Ladakh)"
+  },
+  {
+    "opName": "OP INDUS SHIELD",
+    "line": 1045,
+    "targetName": "Nyoma Advanced Landing Ground (Mudh–Nyoma)"
+  },
+  {
+    "opName": "OP REZANG VALOR",
+    "line": 1063,
+    "targetName": "Rezang La / Chushul Mountain Pass Radar"
+  },
+  {
+    "opName": "OP AKSAI MIRAGE",
+    "line": 1081,
+    "targetName": "Depsang Plains Forward Armor Base (Burtse)"
+  },
+  {
+    "opName": "OP MEGHDOOT SHIELD",
+    "line": 1099,
+    "targetName": "Siachen Base Camp & Partapur (Nubra Valley)"
+  },
+  {
+    "opName": "OP FUKCHE FRONTIER",
+    "line": 1117,
+    "targetName": "Fukche Advanced Landing Ground (2.5 km from LAC)"
+  },
+  {
+    "opName": "OP DEMCHOK WATCH",
+    "line": 1135,
+    "targetName": "Demchok Indus Entry Sector (Charding Nullah)"
+  },
+  {
+    "opName": "OP KONGKA CREST",
+    "line": 1153,
+    "targetName": "Hot Springs / Kongka La Patrol Base (Chang Chenmo)"
+  },
+  {
+    "opName": "OP KUGRANG GUARD",
+    "line": 1171,
+    "targetName": "Gogra Post (PP-17A) Kugrang River Valley"
+  },
+  {
+    "opName": "OP GURUNG HILL",
+    "line": 1189,
+    "targetName": "Spanggur Gap & Gurung Hill Tactical Radar"
+  },
+  {
+    "opName": "OP HANLE STARLIGHT",
+    "line": 1207,
+    "targetName": "Hanle Dark Sky Observatory & Air Defence Radar"
+  },
+  {
+    "opName": "OP VIJAY SENTINEL",
+    "line": 1225,
+    "targetName": "Kargil Airfield & Suru Valley Logistics Hub"
+  },
+  {
+    "opName": "OP TIGER CREST",
+    "line": 1243,
+    "targetName": "Dras Sector / Tiger Hill Radar Observation Post"
+  },
+  {
+    "opName": "OP SHYOK SHIELD",
+    "line": 1261,
+    "targetName": "Thoise Airbase (Siachen Air-Bridge Hub)"
+  },
+  {
+    "opName": "OP ROOFTOP WATCH",
+    "line": 1279,
+    "targetName": "Karakoram Pass Northernmost Outpost (5,540m ASL)"
+  },
+  {
+    "opName": "OP DURBUK NEXUS",
+    "line": 1297,
+    "targetName": "Tangtse–Durbuk Shyok Bridge & Brigade HQ"
+  },
+  {
+    "opName": "OP CHANGLA RELAY",
+    "line": 1315,
+    "targetName": "Chang La Pass Troposcatter & Optical Fiber Hub (5,360m)"
+  },
+  {
+    "opName": "OP KHARDUNG EYE",
+    "line": 1333,
+    "targetName": "Khardung La North Pullu Air Defence Radar"
+  },
+  {
+    "opName": "OP SULTAN RIDGE",
+    "line": 1351,
+    "targetName": "Sub-Sector North (SSN) Sultan Chhushku Tank Point"
+  },
+  {
+    "opName": "OP KARU BASTION",
+    "line": 1369,
+    "targetName": "Upshi–Karu BrahMos & Pinaka Missile Garrison"
+  },
+  {
+    "opName": "OP CHUMAR HORIZON",
+    "line": 1387,
+    "targetName": "Chumar Southern LAC Plateau Outpost"
+  },
+  {
+    "opName": "OP GLACIER CROWN",
+    "line": 1405,
+    "targetName": "Siachen Kumar Post (16,000 ft) & Indira Col Sector"
+  },
+  {
+    "opName": "OP SEA TRIDENT",
+    "line": 1426,
+    "targetName": "INS Dwarka / Okha Naval Missile Base, Gujarat"
+  },
+  {
+    "opName": "OP ATOMIC DOME",
+    "line": 1444,
+    "targetName": "Kakrapar Atomic Power Station (KAPS-3/4), Gujarat"
+  },
+  {
+    "opName": "OP THAR VIPER",
+    "line": 1462,
+    "targetName": "Jaisalmer Air Force Station (Thar Desert)"
+  },
+  {
+    "opName": "OP SHAKTI SHIELD",
+    "line": 1480,
+    "targetName": "Pokhran Strategic Test Range ADZ, Rajasthan"
+  },
+  {
+    "opName": "OP VARUNA FLEET",
+    "line": 1498,
+    "targetName": "INS Vikrant Carrier Battle Group (Arabian Sea)"
+  },
+  {
+    "opName": "OP KUTCH SENTINEL",
+    "line": 1516,
+    "targetName": "Bhuj (Rudra Mata) & Naliya Fighter Airbases"
+  },
+  {
+    "opName": "OP MARUSTHAL",
+    "line": 1534,
+    "targetName": "Barmer (Uttarlai) Underground Fighter Airbase"
+  },
+  {
+    "opName": "OP WESTERN SHIELD",
+    "line": 1552,
+    "targetName": "Mundra & Kandla Strategic Port & Energy Terminal"
+  },
+  {
+    "opName": "OP REFINERY SHIELD",
+    "line": 1570,
+    "targetName": "Jamnagar Oil Refinery Complex (World's Largest Refinery)"
+  },
+  {
+    "opName": "OP CREEK PHANTOM",
+    "line": 1588,
+    "targetName": "Sir Creek & Kori Creek Border Patrol Base, Kutch"
+  },
+  {
+    "opName": "OP LONGEWALA SANDS",
+    "line": 1606,
+    "targetName": "Longewala Forward Desert Post, Jaisalmer"
+  },
+  {
+    "opName": "OP BIKANER HAWK",
+    "line": 1624,
+    "targetName": "Nal Air Force Station, Bikaner"
+  },
+  {
+    "opName": "OP PHALODI FALCON",
+    "line": 1642,
+    "targetName": "Phalodi Air Force Station, Jodhpur Sector"
+  },
+  {
+    "opName": "OP SUN CITY AEGIS",
+    "line": 1660,
+    "targetName": "Jodhpur South Western Air Command Airbase"
+  },
+  {
+    "opName": "OP OFFSHORE RIG",
+    "line": 1678,
+    "targetName": "Mumbai High North Offshore Oil & Gas Platform"
+  },
+  {
+    "opName": "OP TARAPUR CORE",
+    "line": 1696,
+    "targetName": "Tarapur Atomic Power Station (TAPS 1–4), Maharashtra Coast"
+  },
+  {
+    "opName": "OP SEABIRD GUARD",
+    "line": 1714,
+    "targetName": "INS Kadamba Naval Base, Karwar (Project Seabird)"
+  },
+  {
+    "opName": "OP GATEWAY DOME",
+    "line": 1732,
+    "targetName": "Mumbai Western Naval Dockyard & INS Shikra"
+  },
+  {
+    "opName": "OP SAGAR SURAKSHA",
+    "line": 1750,
+    "targetName": "Porbandar Coast Guard Air Enclave, Gujarat"
+  },
+  {
+    "opName": "OP THAR EXPRESS",
+    "line": 1768,
+    "targetName": "Munabao Strategic Border Railhead, Barmer"
+  },
+  {
+    "opName": "OP GHAGGAR SHIELD",
+    "line": 1786,
+    "targetName": "Suratgarh Super Thermal Power & Military Station"
+  },
+  {
+    "opName": "OP SAURASHTRA COAST",
+    "line": 1804,
+    "targetName": "INS Sardar Patel Naval Base, Veraval / Diu Sector"
+  },
+  {
+    "opName": "OP VEMBANAD SHIELD",
+    "line": 1822,
+    "targetName": "Kochi Southern Naval Command & Carrier Drydock"
+  },
+  {
+    "opName": "OP NINE DEGREE",
+    "line": 1840,
+    "targetName": "INS Jatayu Naval Base, Minicoy Island (Lakshadweep)"
+  },
+  {
+    "opName": "OP TANKER SHIELD",
+    "line": 1858,
+    "targetName": "Gulf of Kutch VLCC Crude Oil Supertanker Terminal (Vadinar)"
+  },
+  {
+    "opName": "OP CAPITAL DOME",
+    "line": 1879,
+    "targetName": "New Delhi Central Vista & Rashtrapati Bhavan ADZ"
+  },
+  {
+    "opName": "OP HINDON SKY",
+    "line": 1897,
+    "targetName": "Hindon Air Force Station (NCR Eastern Shield)"
+  },
+  {
+    "opName": "OP GOLDEN ARROWS",
+    "line": 1915,
+    "targetName": "Ambala Air Force Station (17 Sqn Rafale Base)"
+  },
+  {
+    "opName": "OP KALPAKKAM CORE",
+    "line": 1933,
+    "targetName": "Kalpakkam Nuclear Complex (MAPS & PFBR), Tamil Nadu"
+  },
+  {
+    "opName": "OP GARUDA VIP",
+    "line": 1951,
+    "targetName": "Palam Air Force Station & IGI VIP Terminal Corridor"
+  },
+  {
+    "opName": "OP NETRA SHIELD",
+    "line": 1969,
+    "targetName": "Agra Strategic Airborne Warning (AWACS) Airbase"
+  },
+  {
+    "opName": "OP COMMAND AEGIS",
+    "line": 1987,
+    "targetName": "Chandigarh Western Air Command (WAC) HQ & 12 Wing"
+  },
+  {
+    "opName": "OP LAHORI GATE",
+    "line": 2005,
+    "targetName": "Red Fort (Lal Qila) Independence Day VVIP Podium ADZ"
+  },
+  {
+    "opName": "OP SANSAD KAVACH",
+    "line": 2023,
+    "targetName": "Parliament House (New Sansad Bhavan) & Secretariat"
+  },
+  {
+    "opName": "OP GAGANYAAN SHIELD",
+    "line": 2041,
+    "targetName": "Sriharikota SDSC SHAR ISRO Orbital Launch Pad, AP"
+  },
+  {
+    "opName": "OP AGNI SENTINEL",
+    "line": 2059,
+    "targetName": "Dr. APJ Abdul Kalam Island (Wheeler Island) Missile Range, Odisha"
+  },
+  {
+    "opName": "OP CHAMBAL ATOM",
+    "line": 2077,
+    "targetName": "Rawatbhata Rajasthan Atomic Power Station (RAPS 1–8), Kota"
+  },
+  {
+    "opName": "OP GANGA CORE",
+    "line": 2095,
+    "targetName": "Narora Atomic Power Station (NAPS), Uttar Pradesh"
+  },
+  {
+    "opName": "OP KANCHANBAGH",
+    "line": 2113,
+    "targetName": "DRDO Missile Complex (RCI & ASL), Hyderabad"
+  },
+  {
+    "opName": "OP TEJAS CITADEL",
+    "line": 2131,
+    "targetName": "HAL Airport & ADA Flight Test Center, Bengaluru"
+  },
+  {
+    "opName": "OP CHAMBAL RAVINE",
+    "line": 2149,
+    "targetName": "Gwalior Maharajpura Airbase (TACDE & Mirage-2000 Hub)"
+  },
+  {
+    "opName": "OP TRISHUL CENTRAL",
+    "line": 2167,
+    "targetName": "Bareilly Trishul Air Force Station (Central Air Command)"
+  },
+  {
+    "opName": "OP DOKLAM SHIELD",
+    "line": 2185,
+    "targetName": "Hasimara Airbase (101 Sqn Rafale, Siliguri Corridor)"
+  },
+  {
+    "opName": "OP TAWANG SENTINEL",
+    "line": 2203,
+    "targetName": "Tawang Garrison & Bum La Forward ADZ (Arunachal Pradesh, India)"
+  },
+  {
+    "opName": "OP EASTERN SPEAR",
+    "line": 2221,
+    "targetName": "Chabua & Mohanbari Airbases (Upper Assam & Kibithu ADZ)"
+  },
+  {
+    "opName": "OP SAHYADRI SKY",
+    "line": 2239,
+    "targetName": "Pune Lohegaon Air Force Station (Southern Air Command)"
+  },
+  {
+    "opName": "OP MALACCA WATCH",
+    "line": 2257,
+    "targetName": "Port Blair Tri-Service Command (INS Utkrosh), Andaman & Nicobar"
+  },
+  {
+    "opName": "OP VARSHA DOLPHIN",
+    "line": 2275,
+    "targetName": "Visakhapatnam Eastern Naval Command & Strategic Oil Reserve"
+  },
+  {
+    "opName": "OP NILGIRI OWL",
+    "line": 2293,
+    "targetName": "Defence Services Staff College (DSSC), Wellington (Nilgiris)"
+  },
+  {
+    "opName": "OP INDRA FINALE",
+    "line": 2311,
+    "targetName": "Integrated Air Command — Operation Capital Shield (National Crucible)"
+  }
+]

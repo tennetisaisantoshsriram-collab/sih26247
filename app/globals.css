@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: 'Inter', sans-serif;
+  --shadow-card: 0 4px 24px rgba(0,0,0,0.06);
+  --radius-card: 16px;
+  --radius-pill: 9999px;
+  --color-brand-amber: #F5A623;
+  --color-brand-lavender: #C7B8EA;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0a0a0f;
+}
+
+@media print {
+  body { background: #fff !important; color: #000 !important; }
+  .no-print { display: none !important; }
+}
+
+.gradient-bg {
+  background:
+    radial-gradient(ellipse at top left, #F5D78E 0%, transparent 50%),
+    radial-gradient(ellipse at bottom right, #C7B8EA 0%, transparent 50%),
+    #ffffff;
+}
